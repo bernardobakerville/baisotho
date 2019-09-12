@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaigohquu.hikinghelper.com/sitemap.xml
